@@ -13,6 +13,9 @@ namespace Task_2_1
             string fullName = "Иванов Иван Иванович";
             byte age = 30;
             string email = "Ivanov@mail.ru";
+            double ballsCode;
+            double ballsMath;
+            double ballsPhis;
 
         }
     }
