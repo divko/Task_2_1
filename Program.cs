@@ -10,6 +10,10 @@ namespace Task_2_1
     {
         static void Main(string[] args)
         {
+            string fullName = "Иванов Иван Иванович";
+            byte age = 30;
+            string email = "Ivanov@mail.ru";
+
         }
     }
 }
